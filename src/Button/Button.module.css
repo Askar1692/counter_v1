@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 200px;
+    border: solid orange;
+    border-radius: 20px;
+    background-color: yellowgreen;
+    border-width: 5px;
+    margin: 0 auto;
+    ;
+}
+
+.counter {
+    border-radius: 20px;
+}
+
+.number {
+    font-size: 40px;
+}
+
+.reset {
+    display: flex;
+    background-color: red;
+    margin: 10px;
+}
